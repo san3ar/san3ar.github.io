@@ -1,20 +1,20 @@
 <packageInfo>
-    <bundleId>San3ar-UniAW-2018</bundleId>
+    <bundleId>UniAW-Blak-SB_San3ar</bundleId>
     <name>San3ar-UniAW-2018</name>
     <version>1.0</version>
     <descriptions>
         <description>
             Widget Weather 3 Widget for LS and SB.
         </description>
-        <description> 
+        <description>
 		<![CDATA[<p><strong>Special thank to UniAW Team:</strong><br>
 		This Packet includes Lockscreen and <br>
-		Springboard widget. enjoy<br></p>]]>	
+		Springboard widget. enjoy<br></p>]]>
         </description>
       </descriptions>
     <backgrounds>
 	<image>bg1.png</image>
-    </backgrounds>    
+    </backgrounds>
     <compatibility>
         <miniOS>9.0</miniOS>
         <maxiOS>12.1.2</maxiOS>
