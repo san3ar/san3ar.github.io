@@ -1,4 +1,4 @@
-    <packageInfo>
+<packageInfo>
     <bundleId>com.san3ar.xenhtml</bundleId>
     <name>San3ar-Xeninfo-Change-Wall</name>
     <version>1.0</version>
@@ -6,6 +6,7 @@
         <description>
             XenInfo for SB.
         </description>
+        <description>
 		<![CDATA[<p><strong>For the widget to work properly you need to install XenInfo:</strong><br>
 		This Packet includes Lockscreen and <br>
 		Springboard widget. enjoy<br></p>]]>
